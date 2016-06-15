@@ -13,11 +13,11 @@
                     <div class="panel-heading">Contact Info</div>
                     <div class="panel-body">
                         <address>
-                            <strong>Tom Tsiliopoulos</strong><br>
-                            1 Toronto Street<br>
-                            Barrie, ON L9L 9L9<br>
+                            <strong>CAPTAIN C</strong><br>
+                            10 Nebraska<br>
+                            Barrie, ON L4m5v1<br>
                             <abbr title="Phone">TEL:</abbr>
-                            (705) 555-6666
+                            (705) 970-1111
                         </address>
                     </div>
                 </div>
